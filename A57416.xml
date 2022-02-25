@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The afflicted souls preparation for death The preparation of the heart in man, and the answer of the tongue is from the Lord. Prov. the 16. and the I. verse. With loving exhortations to every true Christian to prepare their souls for the hour of death, also many good instructions to every good Christian to beware of false prophets. Written by Tho. Robins, B. of D. And licensed according to order.</title>
+            <author>Robins, Thomas, fl. 1672-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57416</idno>
+            <idno type="STC">Wing R1647</idno>
+            <idno type="STC">ESTC R219694</idno>
+            <idno type="EEBO-CITATION">99831147</idno>
+            <idno type="PROQUEST">99831147</idno>
+            <idno type="VID">35609</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35609)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2039:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The afflicted souls preparation for death The preparation of the heart in man, and the answer of the tongue is from the Lord. Prov. the 16. and the I. verse. With loving exhortations to every true Christian to prepare their souls for the hour of death, also many good instructions to every good Christian to beware of false prophets. Written by Tho. Robins, B. of D. And licensed according to order.</title>
+                  <author>Robins, Thomas, fl. 1672-1685.</author>
+               </titleStmt>
+               <extent>[24] p. : ill. (port.)  </extent>
+               <publicationStmt>
+                  <publisher>printed for W.W. and are to be sold by W. Thackeray at the Dolphin in Smith-field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XVI, 1 --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:35609:1"/>
+            <p>The afflicted Souls Pre<g ref="char:EOLhyphen"/>paration for death.</p>
+            <figure/>
+            <p>By <hi>Tho. Rbins</hi> B. of D.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:35609:2" rendition="simple:additions"/>
+            <pb facs="tcp:35609:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:35609:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:35609:3"/>
+            <p>The afflicted SOULS PREPARATION FOR DEATH. The preparation of the heart in man, and the anſwer of the tongue is from the Lord. <hi>Prov.</hi> the 16. and the 1. verſe.</p>
+            <p>WITH Loving Exhortations to every true Chriſtian to prepare their Souls for the Hour of Death. Alſo many good Inſtructions to every good Chriſtian to beware of falſe Prophets.</p>
+            <q>
+               <bibl>Jeremiah 20. and 8, 9.</bibl>
+               <p>
+                  <hi>For thus ſaith the Lord of Hoſt, the God of Iſ<g ref="char:EOLhyphen"/>rael, let not your Prophets and your Divines that be in the midſt of you, deceive you; neither hearken to your Dreams, which you cauſe to have dreamed, for they propheſie falſely unto you in my Name. I have not ſent them ſaith the Lord.</hi>
+               </p>
+            </q>
+            <p>Written by <hi>Tho. Robins,</hi> B. of D. And Li<g ref="char:EOLhyphen"/>cenſed according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. W.</hi> and are to be ſold by <hi>W. Thackeray</hi> at the Dolphin in <hi>Smith-field.</hi> 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:35609:4"/>
+            <pb facs="tcp:35609:4" rendition="simple:additions"/>
+            <head>The afflicted SOULS Preparation for Death.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Lamentations the</hi> 1. <hi>and</hi> 20. <hi>verſe.</hi>
+               </bibl>
+               <q>Behold, O Lord, for I am in diſtreſs, my bowels are troubled, my heart is turned within me, for I have grievouſly rebelled.</q>
+            </epigraph>
+            <p>
+               <hi>MY beloved brethren,</hi> I would deſire you all to take notice of theſe words here mentioned in this place of Scripture: for in<g ref="char:EOLhyphen"/>deed you may aſſure your ſelves that they were written for no other purpoſe, but for the better inſtruction of us poor miſerable ſinners: and I pray God give us all grace to be of ſuch an humble ſpirit, as to con<g ref="char:EOLhyphen"/>feſs our faults, as thoſe people did in this place of Scripture, crying <hi>&amp;</hi> calling night and day to the Lord, to behold the miſera<g ref="char:EOLhyphen"/>ble eſtate and condition that we poor mi<g ref="char:EOLhyphen"/>ſerable ſinners live in: For certainly brethren we ſtand in as much néed to cry
+<pb facs="tcp:35609:5"/>
+upon the Lord to behold our miſeries as thoſe people could doe: For certainly our ſins are as great as theirs could be, <hi>and I pray God they prove not greater:</hi> For indéed you cannot name any ſin in the World, but it is daily uſed either by one or other, and eſpecially theſe ſins that I ſhall name here unto you that is to ſay, Pride, Whoredome, and Drunkenneſs, Swearing and Lying, and worſt of all that terrible ſin of diſſimulation, which I am afraid is too much uſed with a great many now adaies, Indéed my brethren, I would deſire every one of you that is ad<g ref="char:EOLhyphen"/>dicted to any ſin, I would deſire you to ſtrive by all poſſible means to forſake them: For alas my brethren there is a day to come that every poor Soul muſt give an account for every Wicked Sin that we follow<hi>:</hi> and as the Pro<g ref="char:EOLhyphen"/>phet <hi>Jeremiah</hi> cryed out to the people in <hi>Lamentations</hi> 2. and 19. ver. Even ſo my brethren I call and cry upon every one of you that are here preſent, and theſe be the words<g ref="char:punc">▪</g> 
+               <hi>Ariſe, cry out in the night, in the beginning of the watches, pour out thine heart like water before the face of the Lord; lift up thine hand towards</hi>
+               <pb facs="tcp:35609:5"/>
+               <hi>him:</hi> And as <hi>Simon</hi> prayed unto the Lord, as you may find in <hi>Lamentations</hi> 5. and the 20. and 21 verſes in theſe words; <hi>Wherefore doſt thou forgive us forever, and forſake us not ſo long time; turn thou us unto thee, O Lord, and we ſhall be turned.</hi>
+            </p>
+            <p>Nay, I would deſire you to look into the 4. of <hi>Hoſea,</hi> and there you ſhall ſée how the Lord threatned the people be<g ref="char:EOLhyphen"/>cauſe there was no truth, nor mercy, nor knowledge of GOD in the Land but Swearing, and Lying, and Killing, and Stealing, and committing Adultery: and indéed I am afraid that thoſe crying Sins here named, are too much uſed in this Land: Therefore I would deſire every one of you to refraine theſe ſins here named, for fear the LORD ſhould threaten us with the ſame words as he threatned the <hi>Iſraelites</hi> in the fourth of <hi>Hoſea</hi> and the third Verſe. In theſe words. <hi>Therefore ſhall the Land mourn; and every one that dwelleth therein ſhall languiſh with the beaſts of the field, and with the Fowles of Heaven: Yea the Fiſhes of the Sea alſo ſhall be taken a<g ref="char:EOLhyphen"/>way.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:35609:6"/>
+Indéed good people, you may ſée here how the Lord threatned thoſe people all with moſt heavy judgements: Nay he did not only threaten the people, but he threatned the very beaſts in the Field, nay, the Fouls in the Ayre, and the very Fiſhes in the Sea too: Therefore in the Name of God let us all have a care of provoking the Lord too much to wrath, for we do not know how ſoon he may come upon us with the ſame judgements: for certainly good people the Lord had not threatned y<hi rend="sup">e</hi> Iſraelites with ſuch ſore and heavy judgements as he did, but for their grievous ſins. And indéed I do believe that our ſinners are as great as theirs could be, if not greater: For certainly there is not any ſin in the World, but it remaineth here in this land. Then how do we think that we can eſcape the ſame puniſhments due for our tranſgreſſions: as ſwearing is accounted by a great many for a Paſtime, a Pleaſure, and a good Company-kéeper; for he which can ſwear and curſe, Lye and diſſemble, he is count<g ref="char:EOLhyphen"/>ed the beſt Companion with a great many in theſe times. But indéed I could deſire all thoſe that do know themſelves to be
+<pb facs="tcp:35609:6"/>
+addicted to thoſe evil conditions, to have a care what they do, and ſtrive by all poſ<g ref="char:EOLhyphen"/>ſible means to refrain themſelves from this wicked and ungodly cuſtome of ſin<g ref="char:EOLhyphen"/>ning; For be aſſured, <hi>there is a day to come when we muſt all give an account:</hi> Therefore in the Name of God I would deſire every one of you, young and old to do your beſt indeavours to reſrain your wicked ſins, <hi>and cry and call unto the Lord night and day, and with an humble ſpirit,</hi> ſay as <hi>David</hi> ſaith in the 39 <hi>Pſalm</hi> and the fourth verſe, <hi>Lord make me to know my end, and the meaſure of my daies what it is, that I may know how frail I am.</hi>
+            </p>
+            <p>Indéed good people you may ſee in this place of holy Scripture, I, and many more, that the Prophet had a great deſire to ſerve the Lord<g ref="char:punc">▪</g> but indéed we are more ready to ſerve our ſelves then to ſerve him. Alas my brethren, can we think that the Lord ſhould do any thing for us, when we will do nothing for him: As if we ſhould ſay, <hi>we had God at command:</hi> No, no my brethren let us all have a care what we doe: For certainly the Lord will call us all to an account, as he did the Servants
+<pb facs="tcp:35609:7"/>
+in the Goſpel, that he had formerly given the Talents to, when the Lord called unto them to ſée what uſe they had put them to: and indéed my Brethren thoſe Talents may very well be termed to the life of a Chriſtian here on Earth; for certainly the Lord will have an account given him how we have ſpent our life here upon Earth; Then who is he that can ſay, <hi>He hath fed the hungry, cloathed the naked, or viſited the ſick, or a help to the fatherleſs:</hi> No, I am afraid there is but a few now adaies that is given unto Charity; No my Brethren, where there is one now adaies that dealeth with a Liberal hand to the Poor, there is thrée that dealeth with a ſlack hand, I, but look into <hi>Proverbs</hi> the tenth and the fourth verſe, and there you ſhall find, <hi>He that would enjoy Riches, ſhould deal libe<g ref="char:EOLhyphen"/>rally to the poor: He becometh poor that dealeth with a ſlack hand, but the hand of the diligent maketh rich: wealth maketh many friends, but the poor is ſeparated from his neighbour, Proverbs the nineteenth and the</hi> 14 <hi>verſe.</hi> And in<g ref="char:EOLhyphen"/>déed my brethren it is a common thing with a great many now adaies to ſeparate
+<pb facs="tcp:35609:7"/>
+the poor, and if any féel hunger, let the poor féel it. But O my Brethren, there is a day to come, that we muſt all give an account: I would deſire you to look into the 25. of <hi>Matthew</hi> and the begin<g ref="char:EOLhyphen"/>ning at the 34. verſe, and ſo to the latter end, and there you ſhall ſee the bleſsed joys that belongs to them that féeds the hun<g ref="char:EOLhyphen"/>gry, or cloaths the naked; I, and the tor<g ref="char:EOLhyphen"/>ments that belong to them that doe not. Indéed I would deſire you to read over that Chapter at your leiſure; for it is too large upon this matter to ſet down in this ſmall Volume: and when you have read it, I pray God give you all grace to make good uſe of it; for certainly he that loveth not the poor cannot with a ſafe conſcience ſay he loves God; for look into <hi>Proverbs</hi> 12. and the 13 verſe, and there it is plain<g ref="char:EOLhyphen"/>ly laid open in theſe words, <hi>He that op<g ref="char:EOLhyphen"/>preſſeth the poor, reproacheth his Maker: but he that honoureth him, hath mercy on the poor.</hi>
+            </p>
+            <p>Indéed my Brethren, there is many more places of Scripture concerning the ſame matter, but I hope here is enough to ſatisfie at this time, and the Lord give us all grace to underſtand it, and
+<pb facs="tcp:35609:8"/>
+make good uſe of it: <hi>Heare ye Children the inſtruction of a Father, and attend to know underſtanding,</hi> Proverbs 4. and the 1. verſe. <hi>Hear O my ſon, and receive my ſaying, and the years of thy life ſhall be many. I have taught thee in the way of wiſdom, I have led thee in right paths; when thou goeſt thy ſteps ſhall not be ſtraitned; and when thou runneſt thou ſhalt not ſtumble: take faſt hold of in<g ref="char:EOLhyphen"/>ſtruction, let her not go, for ſhe is thy life,</hi> Proverbs 4. and the 10, 11, 12, 13, verſes.</p>
+            <p>And indéed good people, happy are thoſe who will take good Counſell in theſe times: for certainly theſe are the <hi>peril<g ref="char:EOLhyphen"/>lous times which our Saviour Chriſt did ſpeak of that ſhould come in the latter daies:</hi> For certainly there is but a little to come to paſs of that which our Saviour Chriſt ſaid ſhould come, but is come: but only the calling of the <hi>Jews,</hi> the which indéed we do not know how ſoon it may come: Nay it is hard for us to ſay whe<g ref="char:EOLhyphen"/>ther that time be come or no, For cer<g ref="char:EOLhyphen"/>tainly ſo many ſundry ſorts of Opinions was never known as is abroad now in our daies: No, nor never ſo many <hi>Ju<g ref="char:EOLhyphen"/>das's</hi>
+               <pb facs="tcp:35609:8"/>
+condition one towards another as there is now: And indéed my brethren, we do not know but be may term us to be theſe Iews: Therefore in the Name of GOD I would deſire every good Chriſtian to have a care how they lead their lives here upon Earth, and let us all cry and call upon the Lord night and day to ſend us all of his Spiritual grace into our hearts, and to ſay as <hi>David</hi> ſaid in the 28 <hi>Pſalm,</hi> beginning at the firſt verſe, <hi>Unto thee will I cry, O Lord<g ref="char:punc">▪</g> my reſt: Be not ſilent to me, leſt if thou be ſilent to me, I become like them that go down into the pit: Hear the voice of my ſup<g ref="char:EOLhyphen"/>plications when I cry unto thee, when I lift up my hands towards the holy Ora<g ref="char:EOLhyphen"/>cle. Draw me not away with the wicked and with the workers of iniquity, which ſpeak peace to their neighbours, but miſ<g ref="char:EOLhyphen"/>chief is in their hearts:</hi> As you may find it written in the 28 <hi>Pſalm,</hi> the 1, 2, 3. verſes.</p>
+            <p>And indeed, I am ſore afraid that there be too many of ſuch people abroad now adaies, that will give you fair ſpée<g ref="char:EOLhyphen"/>ches to your face, but their hearts are full of deceit: But indeed any brethren, as
+<pb facs="tcp:35609:9"/>
+the Prophet <hi>Jeremiah</hi> ſaid by the <hi>Jews,</hi> ſo may we ſay by ſuch people. <hi>Jeremiah</hi> 5. <hi>and the</hi> 4 <hi>verſe. Therefore I ſaid, ſurely theſe are poor, they are fooliſh; for they know not the way of the Lord, nor the judgements of God.</hi>
+            </p>
+            <p>And indéed I would deſire every good Chriſtian to have a care what they doe in theſe times; For certainly the times are very dangerous, as our Saviour ſaid in <hi>Mark</hi> the 15. and the 22. <hi>Falſe Chriſts, and falſe prophets ſhall ariſe, and ſhall ſhew ſigns and wonders, to ſeduce, if it were poſſible even the Elect, but behold I have foretold you all things.</hi>
+            </p>
+            <p>Now indéed good people, it is good for us all to take héed; for ſuch people as theſe are abroad, you may know them by their Works, for they be people that pro<g ref="char:EOLhyphen"/>feſseth to have a good Faith; But as the Apoſtle ſaid in the ſecond of <hi>James,</hi> and the 14. verſe; <hi>What doth it profit my bre<g ref="char:EOLhyphen"/>thren, though a man ſay he hath faith, and have not works, can his faith ſave him? No, no, faith without works is but a dead faith.</hi> As you may find it written in the 26. verſe of this Chapter: <hi>For as the Body without the Spirit is</hi>
+               <pb facs="tcp:35609:9"/>
+               <hi>dead, ſo faith without works is dead alſo.</hi> Indeed there are very many now adaies that will ſay, <hi>they have no ſin,</hi> which I pray God they do not find one day that they be not overladen with a heavy bur<g ref="char:EOLhyphen"/>then of ſin; Indéed I cannot perceive <hi>that any can live without ſin.</hi> I would de<g ref="char:EOLhyphen"/>ſire you to look into <hi>Romans</hi> the 5. and the 8, 9, 10. verſes, and there you may perceive that in thoſe daies there was none that lived without ſin: and indéed I am afraid that this Nation is as ſinfull as they were; <hi>Yet they confeſſed all ſin<g ref="char:EOLhyphen"/>ned,</hi> not rather as we be ſlanderouſly re<g ref="char:EOLhyphen"/>ported, and as ſome affirm, that we ſay, <hi>Let us do evil that good may come on it whoſe damnation is juſt:</hi> what then, are we better then they? <hi>No, in no wiſe; for we have before proved both Jews and Gentiles, that they are all under ſin,</hi> as it is written, <hi>there is none righteous, no not one.</hi>
+            </p>
+            <p>Indéed good people, if you but pleaſe to read that Chapter at your leiſure, you will find it all along to that purpoſe. There<g ref="char:EOLhyphen"/>fore in the Name of God have you a care, <hi>for this ſin belongs to the ſin of preſum<g ref="char:EOLhyphen"/>ption,</hi> which I do earneſtly deſire every
+<pb facs="tcp:35609:10"/>
+good Chriſtians to have a care of it, and ſtrive by all poſſible means to forſake it, and learn to be of an humble Spirit with the Lowly, then to divide the ſpoil with the proud, <hi>Proverbs</hi> the 16. and the 19. verſe. Indeed my brethren I would ra<g ref="char:EOLhyphen"/>ther exhort you to true Obedience of heart, confeſſing your faults one to ano<g ref="char:EOLhyphen"/>ther, and pray one for another, that you may be healed. <hi>The effectuall ſervent prayer of a righteous man availeth much, James</hi> 5. 16.</p>
+            <p>For certainly good people the Lord does take notice of a Rebellious people: Look but into the 65. of <hi>Iſaiah,</hi> and the 3 verſe. And there you may ſee that the Lord took notice of the Rebellious people in theſe words: <hi>I have ſpread my hands all the day to a rebellious people, which walked in a way that was not good af<g ref="char:EOLhyphen"/>ter their own thoughts: A people, that provoked me to anger continually to my face.</hi>
+            </p>
+            <p>And theſe be ſome part of their ſpee<g ref="char:EOLhyphen"/>ches, which ſaid, <hi>Stand by thy ſelf, come not neer me for I am holier then thou:</hi> I, but the Lord gives them a ſharp ſen<g ref="char:EOLhyphen"/>tence in the latter part of this verſe: for
+<pb facs="tcp:35609:10"/>
+there he ſaies; <hi>There is a ſmoak in my noſe, and a fire that burneth all the day;</hi> as you may find it in the fourth Verſe of this Chapter.</p>
+            <p>Indéed me thinks this would be a fair warning for every Chriſtian which hath any fear of God in them, to take heed how we provoke the Lord God too much unto wrath; for as he is a God of Mercy, and ſlow to anger, Yet let not us think, but when he doth come, he will give every Man according unto his Works: and in<g ref="char:EOLhyphen"/>déed good people I cannot underſtand no ſurer way for to prevent the anger of the Lord, but by Prayer, and acknowledge<g ref="char:EOLhyphen"/>ing our ſins to the Lord, as the Prophet <hi>David</hi> in the 32. Pſalm and the 5. verſe, in theſe words, <hi>I acknowledge my ſins unto thee: and mine iniquities have I not hid. I ſaid I would confeſs my tranſgreſſions un<g ref="char:EOLhyphen"/>to the Lord, and thou forgaveſt the iniquity of my ſin. Have mercy upon me, O God, ac<g ref="char:EOLhyphen"/>cording to thy loving kindneſs; according to the multitude of thy tender mercies, blot out my tranſgreſſions,</hi> Pſalm 51. 1.</p>
+            <p>O that people had but grace in their hearts, and the fear of God before their eyes for to take example by the holy Pro<g ref="char:EOLhyphen"/>phet,
+<pb facs="tcp:35609:11"/>
+and to pray unto the Lord for to ſend down his ſpiritual Grace into the hearts of every one of us, <hi>that we may ſerve him, love him, and obey him, and keep his Com<g ref="char:EOLhyphen"/>mandments:</hi> And then to be ſure the Lord will love us.</p>
+            <p>Alas how can we ſay we love him, when we daily break his Command<g ref="char:EOLhyphen"/>ments: Ten there is to be obſerved, but alas how ſhould we kéep ten, when we cannot keep two of them. Firſt, the Lord commands us <hi>to love him.</hi> Secondly, he commands us <hi>to love our neighbours as our ſelves,</hi> as you may find it in <hi>Matthew</hi> 22. chap. 38, 39. verſes.</p>
+            <p>Thus now have you heard the Com<g ref="char:EOLhyphen"/>mandements of the Lord, and the Lord of his Mercy give us all grace to ſtrive to kéep them: and as <hi>Moſes</hi> ſaid unto the people in <hi>Deuteronomy</hi> 4. chap. and be<g ref="char:EOLhyphen"/>ginning at verſe 5. ſo I ſay unto you all. <hi>Behold I have taught you ſtatutes and judgements, even as the Lord my God com<g ref="char:EOLhyphen"/>manded me, that you ſhould do ſo in the land whither ye go to poſſeſs. Keep there<g ref="char:EOLhyphen"/>fore and do them; for this is your wiſdom, and your underſtanding in the ſight of the Nations, which ſhall hear all the Statutes,</hi>
+               <pb facs="tcp:35609:11"/>
+               <hi>and ſay, Surely this great Nation is a wiſe and underſtanding people,</hi> Deut. 4. chap. 5. and 6. verſes.</p>
+            <p>And the Lord grant every good Chri<g ref="char:EOLhyphen"/>ſtian grace to ſerve the Lord, and wiſ<g ref="char:EOLhyphen"/>dom to underſtand the good from the evil, and confeſs the Lord to be a Loving and Gracious God! and confeſs our ſins to the Lord, and not ſéek to hide them in our boſomes, <hi>with ſaying we have no ſin,</hi> as a great many do now adaies.</p>
+            <p>No, good people, rather let us cry and call unto the Lord for mercy for them, as the Prophet <hi>Jeremiah</hi> did, in the firſt of <hi>Lamentations</hi> and the 18. verſe. In theſe words, <hi>The Lord is righteous, for I have rebelled againſt his Commandments: hear, I pray you, all people, behold my ſorrow.</hi> And verſe 20. <hi>Behold, O Lord, for I am in diſtreſs, my bowels are troubled, my heart is turned within me, for I have grie<g ref="char:EOLhyphen"/>vouſly rebelled.</hi>
+            </p>
+            <p>And the Lord give every good Chriſti<g ref="char:EOLhyphen"/>an grace to prepare their hearts to ſerbe the Lord, that we may be all in readineſs when the Lord ſhall pleaſe for to call our ſinful ſouls to an account: againſt that day the Lord prepare the hearts of every good Chriſtian.</p>
+            <p>
+               <pb facs="tcp:35609:12"/>
+And ſo to draw towards a concluſion, I deſire to give you one word of Exhor<g ref="char:EOLhyphen"/>tation concerning this: Let every good Chriſtian have a care, and take heed, <hi>leſt there be in any of you an evil heart of un<g ref="char:EOLhyphen"/>belief in departing from the living God.</hi> I mean, take héed you be not led away by a Seducing people, ſuch as will ſay, <hi>they have no ſin.</hi> Nay, there be ſome will not ſtick to ſay <hi>they be Chriſt.</hi> But look in <hi>Mark</hi> 25. verſe 6. There our bleſſed Lord and Saviour tells us, ſuch people ſhall come to you in my Name, ſaying, <hi>I am Chriſt, and ſhall deceive many.</hi> And in 2 <hi>Pet.</hi> 3. 1. and 2. verſes. There you ſhall underſtand, that ſuch people are a<g ref="char:EOLhyphen"/>broad now adaies. <hi>But there were falſe Prophets alſo among the people, even as there ſhall be falſe teachers amongſt you, who privily ſhall bring in damnable He<g ref="char:EOLhyphen"/>reſies, even denying the Lord that bought them, and bring upon themſelves ſwift deſtruction. And many ſhall follow their pernicious waies, by reaſon of whom the way of truth ſhall he evil ſpoken of.</hi>
+            </p>
+            <p>And indéed my Brethren, we may ſée a great many ſuch people abroad now a<g ref="char:EOLhyphen"/>daies,
+<pb facs="tcp:35609:12"/>
+               <hi>that will deny the Lord that bought them,</hi> for there be ſome ſo pernicious in their waies, and ſo wickedly bent, who will not ſtick to ſay, <hi>That there is no God, nor Devil, no Heaven, nor Hell.</hi>
+            </p>
+            <p>But I deſire every good Chriſtian to have a care, that they be not deluded by ſuch people: For certainly there is a day to come, when they ſhall find that there is <hi>a God which doth know the ſecrets of all mens hearts.</hi> And I will aſſure you he will one day call all people to a ſtrict ac<g ref="char:EOLhyphen"/>count: <hi>Then happy is thoſe wiſe Virgins, which is found with their Lamps filled with the oyl of faith:</hi> Which the Lord of his heavenly mercy grant every good Chri<g ref="char:EOLhyphen"/>ſtian grace to endeavour themſelves to ſéek after this Oyl of Faith, and never leave ſeeking till you have found it; and when you have once found it, pray the Lord to give us all underſtanding to make good uſe of it, and be all found in the ſame mind as the Prophet <hi>Iſaiah</hi> was found in, as you may find it in <hi>Iſaiah</hi> 25. and about the ninth verſe, where he ſaid, <hi>Lo, this is our God, we have waited for him, we will be glad and rejoyce in his ſal<g ref="char:EOLhyphen"/>vation.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:35609:13"/>
+O that every Chriſtian would wait on the coming of our Lord and Saviour Ieſus Chriſt, and ſay as <hi>David</hi> in the 40. <hi>Pſalm</hi> and the firſt verſe, <hi>I waited patiently for the Lord, and he inclin'd unto me and heard my cry; but I am poor and needy; yet the Lord thinketh on me,</hi> Pſalm 40. 17. verſe.</p>
+            <p>And indéed, my Brethren, I would deſire every true Chriſtian to wait upon the Lord, confeſs your faults as the Pro<g ref="char:EOLhyphen"/>phet did, and not deny your ſins, as a great many do now adaies: For to be ſure, <hi>The Lord knoweth the hearts of all men;</hi> and although a great many do think for to diſſemble both with God and the world, <hi>with ſaying we have no ſin.</hi> Yet let ſuch as they have a care what they do; for though they ſéek to delude the people which are ignorant, yet let them be aſſu<g ref="char:EOLhyphen"/>red that the Lord will not be mocked with ſuch: oh no: <hi>He is a God of Know<g ref="char:EOLhyphen"/>ledge, a God of Juſtice, a God of Truth, and a God of Mercy to all thoſe that put their truſt in him.</hi> Which the God of his mer<g ref="char:EOLhyphen"/>cy give us all grace ſo to do, and to have a ſpecial care that you wait upon the
+<pb facs="tcp:35609:13"/>
+Lord, and prepare you ſouls for the hour of death.</p>
+            <p>
+               <hi>And now in the Name of God I do ex<g ref="char:EOLhyphen"/>hort you once more to have a care that you be not ſeduced by them, but fly to the Lord your God by true repentance, and then to be ſure he will never leave you, nor forſake you, if you leave not him; and the Lord of his heavenly mercy give us all of his ſpiri<g ref="char:EOLhyphen"/>tual Grace, that we may all ſerve him here ſo on earth, that we may deſerve to have a reſting place in that bleſſed Kingdom of our Lord and Saviour, which is prepared for all ſuch as will prepare themſelves for that bleſſed day of the coming of our Lord and Saviour Jeſus Chriſt, which the Lord of his mercy grant us all grace ſo to do, and that for Chriſt Jeſus ſake; To whom be given; as is moſt due to him, all Honour, Power, Praiſe, Thankſgiving, both now and for evermore. Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:35609:14"/>
+            <head>A ſhort Prayer for afflicted Souls preparation for Death.</head>
+            <p>O Moſt gracious Lord God, thou only knoweſt the ſecrets of all hearts, I am not worthy to be called thy Son; for mine iniquities are grown over my head, a burthen too heavy for me to bear. O wretch that I am, how dare I come in thy pre<g ref="char:EOLhyphen"/>ſence? but now holy and merciful Father, as it hath pleaſed thee to open the eyes of my ſinful ſoul, grant me a lively faith, that I may apply thy pre<g ref="char:EOLhyphen"/>vailing mercies, ſo ſhall my afflicted ſoul wait up<g ref="char:EOLhyphen"/>on thee till the hour of death: which the Lord of his mercy give us grace ſo to do, for Chriſt Jeſus ſake. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>THere are 4. more ſmall books full of heavenly Conſolation, of a ſmall price, and worth the peruſual of all true Chriſtians.</p>
+            <p n="1">1. The ready way to everlaſting life.</p>
+            <p n="2">2. Good counſel to be had at a cheap rate; a very heavenly diſcourſe of the beginning and end of man, deſcribing the happy eſtate of a faithful ſer<g ref="char:EOLhyphen"/>vant of Jeſus Chriſt.</p>
+            <p n="3">3. Englands Summons, or Londons Alarm; being the directions of all ſorts of people, both how to live and die in theſe perilous times.</p>
+            <p n="4">4. Good News from Heaven, Joyful News for all Sincere Chriſtians; an excellent piece for all Good Chriſtians, and worth the peruſal.</p>
+            <pb facs="tcp:35609:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
